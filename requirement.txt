@@ -4,3 +4,4 @@ torch
 numpy
 torchmetrics
 tqdm
+matplotlib
