@@ -1,0 +1,6 @@
+biosig
+scipy
+torch
+numpy
+torchmetrics
+tqdm

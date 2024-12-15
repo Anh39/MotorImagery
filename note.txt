@@ -1,9 +1,0 @@
-svm
-nn (<svm)
-clustering
-cnn
-
-wavelet transform -> change
-contourlet transform -> contour(curve)
-curvelet transform -> curve , edges
-shearlet transform -> direction
